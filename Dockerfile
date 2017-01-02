@@ -1,4 +1,4 @@
-FORM ubuntu
+FROM ubuntu
 MAINTAINER yuzhantao "help@yuzhantao.com"
 ENV REFRESHED_AT 2016-01-02
 
